@@ -1,0 +1,7 @@
+D:\test\.NET\EmployeeAnalyserApp\bin\Debug\EmployeeAnalyserApp.exe.config
+D:\test\.NET\EmployeeAnalyserApp\bin\Debug\EmployeeAnalyserApp.exe
+D:\test\.NET\EmployeeAnalyserApp\bin\Debug\EmployeeAnalyserApp.pdb
+D:\test\.NET\EmployeeAnalyserApp\obj\Debug\EmployeeAnalyserApp.csproj.AssemblyReference.cache
+D:\test\.NET\EmployeeAnalyserApp\obj\Debug\EmployeeAnalyserApp.csproj.CoreCompileInputs.cache
+D:\test\.NET\EmployeeAnalyserApp\obj\Debug\EmployeeAnalyserApp.exe
+D:\test\.NET\EmployeeAnalyserApp\obj\Debug\EmployeeAnalyserApp.pdb
